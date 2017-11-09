@@ -38,7 +38,7 @@ nav a:hover {
   color: #0056b3;
 }
 
-#ID_SELECTOR_ELEMENT_SELECTOR:PSEUDO_SELECTOR a:hover {
+#id_selector a:hover {
   text-decoration: underline;
 }
 
