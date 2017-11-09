@@ -38,6 +38,10 @@ nav a:hover {
   color: #0056b3;
 }
 
+#icebreaker-navigation-hovers a:hover {
+  text-decoration: underline;
+}
+
 main{
   margin-top: 20px;
 }
