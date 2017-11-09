@@ -63,6 +63,12 @@ div.jumbotron {
   line-height: 40px;
 }
 
+div.questions h4 p {
+  padding: 0 20px 0 20px;
+  font-size: 30px;
+  margin-top: 30px;
+}
+
 footer{
   border-top: 1px solid #ccc;
   margin-top: 80px;
