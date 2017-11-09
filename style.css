@@ -38,7 +38,7 @@ nav a:hover {
   color: #0056b3;
 }
 
-#icebreaker-navigation-hovers a:hover {
+#ID_SELECTOR ELEMENT_SELECTOR:PSEUDO_SELECTOR a:hover {
   text-decoration: underline;
 }
 
